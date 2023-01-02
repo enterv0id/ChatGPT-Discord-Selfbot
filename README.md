@@ -24,7 +24,7 @@ Replace ``"YOUR_OPENAI_API_KEY"`` and ``"YOUR_DISCORD_TOKEN"`` with your OpenAI 
 **Get your OpenAI API key from** 
 https://beta.openai.com/account/api-keys
 
-**To get your Discord token**, you'll need to be logged in in a browser and paste the following line in the address bar:
+**To get your Discord token**, you'll need to login your Discord in a browser and paste the following line in the address bar:
 
 ``javascript:alert((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken());``
 

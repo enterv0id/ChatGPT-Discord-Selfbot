@@ -1,6 +1,12 @@
 # OpenAI Discord Selfbot (ChatGPT)
 This is a simple chatbot written in Python that uses OpenAI's GPT-3 API to automatically respond to Direct Messages (DM's) on Discord.
 
+You can download the Windows binary here:
+
+https://github.com/enterv0id/ChatGPT-Discord-Selfbot/releases/
+
+
+
 ## Requirements
 
 - Use Python 3.10.4 or higher

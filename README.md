@@ -27,4 +27,5 @@ You can select and copy your token displayed in the alert window.
 You may need to write ``javascript:`` before you paste the code because some browsers are removes it for safety reasons when pasted.
 
 **Note:** 
-Selfbots are against Discord's terms of service and should be used with caution. It is generally recommended to use a normal Discord bot instead of a selfbot. Use of this selfbot is at your own risk. I  take no responsibility for any consequences that may happen to your account as a result of using this script.
+
+**Selfbots are against Discord's terms of service and should be used with caution. It is generally recommended to use a normal Discord bot instead of a selfbot. Use of this selfbot is at your own risk. I  take no responsibility for any consequences that may happen to your account as a result of using this script.**

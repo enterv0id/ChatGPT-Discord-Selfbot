@@ -8,7 +8,6 @@ import random
 import json
 import time
 
-
 if sys.version_info < (3, 10, 4):
     # the version is not equal to 3.10.4 or bigger
     print("Error: Python 3.10.4 or higher is required to run this script.")

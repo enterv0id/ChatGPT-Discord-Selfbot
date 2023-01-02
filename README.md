@@ -16,7 +16,7 @@ This is a simple chatbot written in Python that uses OpenAI's GPT-3 API to autom
 ## Usage
 
 To use this selfbot, you will need an OpenAI API key and your Discord Token. 
-Replace ``"OPENAI_API_KEY"`` and ``"DISCORD_TOKEN"`` with your OpenAI API Key and Discord token in the ``config.json`` file.
+Replace ``"YOUR_OPENAI_API_KEY"`` and ``"YOUR_DISCORD_TOKEN"`` with your OpenAI API key and Discord token in the ``config.json`` file.
 
 **Get your OpenAI API key from** 
 https://beta.openai.com/account/api-keys
